@@ -16,4 +16,4 @@ and identify human faces, and then execute the corresponding actions
 
 / / NAO robot run version: naoqi - SDK - 2.1.4.13 win32 -- vs2010
 
-/ / in April 2016, Revised by ZhangZhuang form China 
+/ / in April 2016, Revised by ZhangZhuang from China 
